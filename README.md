@@ -10,7 +10,7 @@
 
 <div align="center">
 
-A component template for vue@2.x.
+A component template for vue.
 
 </div>
 
